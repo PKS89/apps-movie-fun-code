@@ -5,3 +5,4 @@ build
 .idea
 minio.exe
 application.yml
+shared
